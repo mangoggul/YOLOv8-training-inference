@@ -1,0 +1,8 @@
+names:
+  0: backGround
+  1: wheat
+nc : 2
+
+path: C:/Users/user/Desktop/vscodeOD/YOLO_v8/wheatCOCO/  # Base dataset directory
+train: train/images
+val: val/images
