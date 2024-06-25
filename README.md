@@ -1,4 +1,6 @@
 # YOLOv8-training-inference
+![image](https://github.com/mangoggul/YOLOv8-training-inference/assets/102888719/3cdc6ae9-9705-4797-b9bb-54ac4d147d0c)
+
 ## How to Use
 ### 1. First git clone this file 
 <br/>
